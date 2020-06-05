@@ -2,6 +2,8 @@
 
 Welcome to the artifact for ESEC/FSE'20 research paper, "A Principled Approach to GraphQL Query Cost Analysis".
 The artifact can be found at: https://github.com/Alan-Cha/graphql-complexity-paper-artifact
+The DOI of the artifact is: TODO
+
 
 ## Table of contents
 
