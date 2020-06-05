@@ -1,9 +1,8 @@
 # Summary
 
 Welcome to the artifact for ESEC/FSE'20 research paper, "A Principled Approach to GraphQL Query Cost Analysis".
-The artifact can be found at: https://github.com/Alan-Cha/graphql-complexity-paper-artifact
-The DOI of the artifact is: TODO
 
+[![DOI](https://zenodo.org/badge/268707378.svg)](https://zenodo.org/badge/latestdoi/268707378)
 
 ## Table of contents
 
@@ -18,6 +17,7 @@ The sub-directories contain their own README.md files to clarify their contents.
 | Complexity measures for queries and responses | Data used to generate Figures 5 and 6, plus charts generator | `measured-complexity/` |
 | Novel GraphQL query generator                 | Configuration details and link to the open-source tool | `query-gen/` |
 | GraphQL schemas                               | GraphQL schemas for GitHub and Yelp at the time of the study | `graphql-schemas` |
+| Verification                                  | Rerun the open-source library evaluation portion of the experiment                                                                      | `verification/`             |
 
 Institutional policy precludes sharing the prototype of our own static analysis.
 We have described the algorithms in enough detail to permit an independent implementation.
